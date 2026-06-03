@@ -28,8 +28,6 @@ Add: netproto and pthread
 
 💻 Program
 
-
-    
     #include <stdio.h>
     void main() {
     int i, j, n;
@@ -58,11 +56,13 @@ Add: netproto and pthread
     }
 
     printf("\nSending frame %d\nFRAME ACKNOWLEDGED...\n", j);
-    printf("\n\nALL FRAMES RECEIVED SUCCESSFULLY\n\n");
-}
+    printf("\n\nALL FRAMES RECEIVED SUCCESSFULLY\n\n");}
+
 
 🖥️ Sample Output
-<img width="1236" height="1108" alt="code block 2" src="https://github.com/user-attachments/assets/49621d52-6eda-4d7e-85e0-49a6ad75a1d6" />
+
+<img width="1920" height="1080" alt="212222060192_SR" src="https://github.com/user-attachments/assets/4eb32b68-5baf-4866-b972-659b525c95a2" />
+
 
 ✅ Result
 
